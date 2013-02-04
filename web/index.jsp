@@ -11,6 +11,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <form method="post" action="ExperimentServlet"><input type="submit" name="test"></form>
+        <form method="post" action="ExperimentServlet"><a href="ExperimentServlet?param1=apple&param2=sauce">Test</a></form>
     </body>
 </html>
